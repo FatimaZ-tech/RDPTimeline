@@ -74,7 +74,7 @@ Supported logs:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/rdptrace.git
+git clone https://github.com/FatimaZ-tech/RDP-Timeline.git
 cd rdptrace
 pip install -r requirements.txt
 ```
