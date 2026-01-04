@@ -1,0 +1,7 @@
+python-evtx
+pandas
+numpy
+scikit-learn
+rich
+ipykernel
+openai
