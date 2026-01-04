@@ -1,6 +1,6 @@
 # RDPTimeline
 
-**RDPTimeline** is a Digital Forensics & Incident Response (DFIR) tool for reconstructing Remote Desktop Protocol (RDP) sessions from Windows Event Logs using timeline analysis, deterministic forensic rules, and optional ML-based anomaly detection.
+**RDPTimeline** is a Digital Forensics & Incident Response (DFIR) tool that reconstructs RDP sessions from Windows Event Logs using timeline analysis, then correlates and flags suspicious activity occurring within and around those sessions using deterministic forensic rules, with optional ML and AI-based explanation.
 
 The tool is designed to work **offline by default**.
 
